@@ -1,0 +1,16 @@
+C:\Users\Omer Rogel\source\repos\HomeTask1_Elevators\HomeTask1_Elevators\obj\Debug\HomeTask1_Elevators.csproj.AssemblyReference.cache
+C:\Users\Omer Rogel\source\repos\HomeTask1_Elevators\HomeTask1_Elevators\obj\Debug\MainWindow.baml
+C:\Users\Omer Rogel\source\repos\HomeTask1_Elevators\HomeTask1_Elevators\obj\Debug\MainWindow.g.cs
+C:\Users\Omer Rogel\source\repos\HomeTask1_Elevators\HomeTask1_Elevators\obj\Debug\App.g.cs
+C:\Users\Omer Rogel\source\repos\HomeTask1_Elevators\HomeTask1_Elevators\obj\Debug\HomeTask1_Elevators_MarkupCompile.cache
+C:\Users\Omer Rogel\source\repos\HomeTask1_Elevators\HomeTask1_Elevators\obj\Debug\HomeTask1_Elevators.g.resources
+C:\Users\Omer Rogel\source\repos\HomeTask1_Elevators\HomeTask1_Elevators\obj\Debug\HomeTask1_Elevators.Properties.Resources.resources
+C:\Users\Omer Rogel\source\repos\HomeTask1_Elevators\HomeTask1_Elevators\obj\Debug\HomeTask1_Elevators.csproj.GenerateResource.cache
+C:\Users\Omer Rogel\source\repos\HomeTask1_Elevators\HomeTask1_Elevators\obj\Debug\HomeTask1_Elevators.csproj.CoreCompileInputs.cache
+C:\Users\Omer Rogel\source\repos\HomeTask1_Elevators\HomeTask1_Elevators\bin\Debug\HomeTask1_Elevators.exe.config
+C:\Users\Omer Rogel\source\repos\HomeTask1_Elevators\HomeTask1_Elevators\bin\Debug\HomeTask1_Elevators.exe
+C:\Users\Omer Rogel\source\repos\HomeTask1_Elevators\HomeTask1_Elevators\bin\Debug\HomeTask1_Elevators.pdb
+C:\Users\Omer Rogel\source\repos\HomeTask1_Elevators\HomeTask1_Elevators\obj\Debug\HomeTask1_Elevators.exe
+C:\Users\Omer Rogel\source\repos\HomeTask1_Elevators\HomeTask1_Elevators\obj\Debug\HomeTask1_Elevators.pdb
+C:\Users\Omer Rogel\source\repos\HomeTask1_Elevators\HomeTask1_Elevators\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Omer Rogel\source\repos\HomeTask1_Elevators\HomeTask1_Elevators\obj\Debug\HomeTask1_Elevators_MarkupCompile.lref
